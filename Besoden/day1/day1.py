@@ -2,7 +2,7 @@ from time import perf_counter
 
 t1_start = perf_counter()
 
-depths = open("day1/day1input.txt").read().splitlines()
+depths = open("day1input.txt").read().splitlines()
 
 numDepth = 0
 
